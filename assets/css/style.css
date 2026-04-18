@@ -13,6 +13,12 @@ body {
   color: var(--text);
   background: #fff;
 }
+ul,li {
+  list-style: none;
+}
+a{
+    text-decoration: none;
+}
 h1,
 h2,
 h3 {
@@ -262,8 +268,8 @@ img {
 .footer {
   background: var(--primary);
   color: #fff;
-  padding: 80px;
-  text-align: center;
+  padding: 30px 20px ;
+
 }
 
 /* RESPONSIVE */
